@@ -1,0 +1,31 @@
+.middleSection{
+    background-color: black;
+    color: white;
+    box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.5), 0 0px 20px 0 rgba(0, 0, 0, 0.4);
+    /* border-radius: 10px; */
+    padding: 40px;
+    padding-top: 80px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.mid__heading{
+    font-size: 2.5rem;
+}
+
+.line{
+    margin-bottom: 40px;
+    border: 2px solid whitesmoke;
+}
+
+.imgimg{
+    margin-left: 20%;
+    max-height: 400px;
+}
+
+.middleSection__para{
+    width: 100%;
+    line-height: 1.7rem;
+    font-size: 17px;
+    margin-left: 10%;
+}
