@@ -1,0 +1,54 @@
+.jury__container{
+    /* background-image: url(../Assets/committe/jury/15628904_5640508.jpeg); */
+    background-image: url(../Assets/committe/jury/juryBack.jpg);
+    margin-top: 100px;
+    background-color: rgb(255, 207, 207);
+    /* background-size: cover; */
+    border-radius: 20px;
+    position: relative;
+}
+
+.jury__headingRow{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.jury__colorStrap{
+    background-color: rgb(197, 98, 41);
+    width: 500px;
+    margin: auto;
+    align-items: center;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.jury__heading{
+    margin-top: 50px;
+    align-items: center;
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    position: relative;
+    z-index: 99;
+}
+/* 
+.jury__membersRow{
+    display: flex;
+    justify-content: space-between;
+} */
+
+.red__pattern{
+    margin-left: -12px;
+    margin-top: 40px;
+    position: absolute;
+    z-index: 1;
+    height: 900px;
+    max-width: 80%;
+}
+
+.jury__memberCol{
+    margin-bottom: 80px;
+    /* text-align: center; */
+    position: relative;
+    z-index: 99;
+}

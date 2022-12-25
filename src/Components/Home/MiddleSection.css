@@ -1,0 +1,41 @@
+.middleSection{
+    /* background-color: rgb(216, 133, 24); */
+    background-image: url(../Assets/committe/homeBack2.jpeg);
+    background-size: cover;
+    color: rgb(128, 73, 11);
+    box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.5), 0 0px 20px 0 rgba(0, 0, 0, 0.4);
+    /* border-radius: 10px; */
+    padding: 40px;
+    padding-top: 80px;
+    border-radius: 20px;
+}
+
+.mid__heading{
+    font-size: 3.2rem;
+    font-weight: 600;
+}
+
+.line{
+    margin-bottom: 40px;
+    border: 2px solid whitesmoke;
+}
+
+.imgimg{
+    margin-left: 20%;
+    max-height: 400px;
+}
+
+.middleSection__para{
+    width: 100%;
+    line-height: 1.7rem;
+    font-size: 20px;
+    margin-left: 10%;
+    text-align: justify;
+}
+
+.stand{
+    opacity: 0.9;
+    position: absolute;
+    /* margin-top: 20px; */
+    /* transform: rotate(-30deg); */
+}

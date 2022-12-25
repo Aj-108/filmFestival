@@ -1,0 +1,44 @@
+.brand__container{
+    margin-top: 80px;    
+    margin-bottom: 50px;
+    color: white;
+    margin-bottom: 300px;
+}
+
+.brand__heading{
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: 700;
+    padding-bottom: 40px;
+    /* color: rgb(18, 18, 70); */
+    /* color: rgb(2, 29, 78); */
+    margin-bottom: 50px;
+    color: rgb(139, 65, 0);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.brand__Imagerow{
+    text-align: center;
+}
+
+.brand__photo{
+    /* height: 400px;
+    max-width:400px; */
+    background-size: cover;
+    border-radius: 30%;
+    margin-bottom: 5px; 
+}
+
+.brand__name{
+    font-size: 2.8rem;
+    font-weight: 600;
+    margin-top : 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    width: 400px;
+    color: rgb(61, 28, 0);
+    margin-left: 40px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

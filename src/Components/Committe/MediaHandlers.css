@@ -1,0 +1,23 @@
+.media__container{
+    margin-top: 200px;
+    background-color: rgba(201, 121, 55, 0.664);
+    color: rgb(61, 28, 0);
+    padding: 40px;
+    border-radius: 20px;
+    padding-top: 50px;
+    margin-bottom: 200px;
+}
+
+.media__colorStrap{
+    background-color: white;
+    width: 320px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: rgb(156, 74, 6);
+}
+
+.media__topRow{
+    margin-bottom: 80px;
+}
+
+

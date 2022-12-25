@@ -1,0 +1,35 @@
+.card__text{
+    text-align: justify;
+}
+
+.card__body{
+    height: 590px;
+}
+
+.card__image{
+    height: 240px;
+}
+
+.card__title{
+    text-transform: uppercase;
+}
+
+.card__body{
+    background-color: rgb(6,37,83) !important;
+}
+
+.card__body:hover{
+    transform: scale(1.05);
+    color: black !important;
+    background-color: white !important;
+    transition: all 1s;
+    box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.5), 0 0px 20px 0 rgba(0, 0, 0, 0.4);
+    border: 1px solid black;
+}
+
+.attraction__heading{
+    margin-top: -10px;
+    margin-bottom: 20px;
+    font-weight: 800;
+    font-family:cursive;
+}

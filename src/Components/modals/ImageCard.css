@@ -1,0 +1,21 @@
+.image__card{
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+    text-align: center;
+}
+
+.member__photo{
+    height: 220px ;
+    width: 220px;
+}
+
+.member__name{
+    font-weight: 600;
+    padding-top: 8px;
+}
+
+.member__desg{
+    margin-top: -5px;
+    color: gray;
+}

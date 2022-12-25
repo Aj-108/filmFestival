@@ -1,0 +1,44 @@
+.members{
+    /* background-color: white */
+    margin-top: 150px;
+    padding-top: 50px; 
+    padding-left: 40px;
+    margin-bottom: 50px;
+    color: rgb(61, 28, 0);
+    border-radius: 20px;
+    /* background-color: rgb(0, 0, 39); */
+    background-color: rgba(201, 121, 55, 0.664);
+    /* margin-bottom: 50px; */
+}
+
+
+
+.members__headRow{
+    margin-bottom: 70px;
+    color: rgb(156, 74, 6);
+    z-index: 99;
+}
+
+.image__row{
+    margin-top: 20px;
+    margin-right: 4px;
+}
+
+.top__row{
+    margin-top:30px ;
+}
+
+.mem__col{
+    margin-bottom: 50px;
+}
+
+.whiteStrap{
+    background-color: white;
+    height: 50px;
+    width: 420px;
+    /* position: absolute; */
+    /* margin-left: -40px; */
+    padding-left: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

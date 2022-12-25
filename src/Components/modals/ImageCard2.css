@@ -1,0 +1,61 @@
+.imageCard{
+    text-align: center;
+    /* background-color: gray; */
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    /* font-size: 1.1rem; */
+}
+
+
+
+.image__photo{
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.image__name{
+    padding: 6px;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.image__designation{
+    margin-top: -5px;
+}
+
+.blue__card{
+    background-color: rgb(243, 202, 155);
+    color: rgb(99, 57, 2);
+    border: 3px solid rgb(202, 138, 20);
+    font-size: 1.3rem;
+}
+
+.blue__heading{
+    font-size: 1.3rem;
+}
+
+.red__card{
+    /* background-color: rgb(180, 43, 43); */
+    /* background-color:rgb(206, 49, 49); */
+    /* color: ; */
+    background-color:rgb(245, 234, 185);
+    /* background-image: url(../Assets/committe/jury/juryBack.jpg);
+    background-size: center; */
+    /* color: white; */
+    color: rgb(66, 35, 0);
+    height: 330px;
+    border: 2px solid rgb(100, 54, 17);
+}
+
+.green__card{
+    background-color: rgb(255, 241, 223);
+    border: 2px solid rgb(194, 194, 7);
+    height: 300px;
+    width: 300px;
+}

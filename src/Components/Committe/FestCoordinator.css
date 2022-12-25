@@ -1,0 +1,22 @@
+.festCord__container{
+    margin-top: 200px;
+    background-color: rgb(255, 255, 255,0.6);
+    padding: 40px;
+    border-radius: 20px;
+    padding-top: 50px;
+    color: rgb(70, 44, 4);
+}
+
+.festCord__colorStrap{
+    background-color: rgb(148, 77, 15);
+    width: 425px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.festCord__topRow{
+    margin-bottom: 80px;
+}
+
+

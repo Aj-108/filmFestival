@@ -1,0 +1,31 @@
+.venue__container{
+    margin-top: 20px;
+    color: white;
+}
+
+.venue__heading{
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 35px;
+}
+
+.Venue{
+    background-color: rgb(48, 129, 28);
+}
+
+.venue__para{
+    text-align: justify;
+    max-width: 90%;
+}
+
+.venue__photoRow{
+    display: flex;
+}
+
+.venue__photos{
+    height: 150px;
+}
+
+.ditPic{
+    max-width: 300px;
+}

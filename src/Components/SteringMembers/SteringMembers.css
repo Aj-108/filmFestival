@@ -1,0 +1,70 @@
+.stering {
+    background-color: rgb(247, 247, 247);
+    z-index: -2;
+}
+
+.str__container{
+    background-color: rgb(185, 233, 163);
+    border-radius: 20px;
+    position: relative;
+    z-index: 1;
+}
+
+.str__row{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.backPic{
+    position: absolute;
+    height: 500px;
+    z-index: 1;
+    margin-left: 20px;
+}
+
+
+
+.backPic2{
+    position: absolute;
+    margin-left: 1350px;
+    margin-top: 500px;
+    height: 500px;
+    z-index: 999;
+}
+
+.backPic3{
+    position: absolute;
+    height: 500px;
+    margin-top: 1000px;
+    margin-left: 20px;
+}
+
+.backPic4{
+    position: absolute;
+    height: 500px;
+    margin-top: 1400px;
+    margin-left: 1350px;
+}
+
+
+.str__heading{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: rgb(1, 78, 1);
+    font-size: 3.4rem;
+}
+
+.str__colorStrap{
+    background-color:  rgb(255, 255, 255);
+    width: 500px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.str__col{
+    margin-bottom: 50px;
+}
+
+.str__row{
+    margin-bottom: 0px;
+}

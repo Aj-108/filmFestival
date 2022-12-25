@@ -1,0 +1,12 @@
+/* .heading__{
+    background-color: rgb(153, 153, 28);
+} */
+
+.heading__text{
+    margin-top: 180px;
+    font-size: 4rem;
+    color: rgb(243, 243, 170);
+    margin-bottom: 180px;
+    font-weight: 700;
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}

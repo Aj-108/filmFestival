@@ -1,0 +1,63 @@
+.footer{
+    background-color: rgb(25, 31, 43);
+    color : white;
+    margin-top: 70px;
+    padding: 20px;
+}
+
+.footer__heading{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.footer__text {
+    color: gray;
+    width: 85%;
+    text-align: justify;
+}
+
+.footer__linksList{
+    color: gray;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+}
+
+.footer__contactList{
+    color: gray;
+    list-style: none;
+    padding: 0px;
+}
+
+.footer__links{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer__last{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer__note{
+    color: rgb(207,181,121);
+    font-weight: 600;
+}
+
+.socailMediaIcons{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.socialIcon{
+    margin-left: 10px;
+}
+
+.socialIcon:hover{
+    transition:1s all ;
+    transform: scale(1.1);
+    cursor: pointer;
+}

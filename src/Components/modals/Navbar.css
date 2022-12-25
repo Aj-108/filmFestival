@@ -1,0 +1,109 @@
+.navBar__itemsList {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    padding-top: 15px;
+}
+
+.navbar{
+    margin-top: 13px;
+}
+
+.navBar__items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar{
+    position: fixed;
+    top: 0px;
+    color: white;
+    /* background-color: whitesmoke; */
+    z-index: 100;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+
+    /* Animations */
+    transition-timing-function: ease in;
+    transition : all 0.5s ;
+}
+
+.uiffilogo{
+    max-height: 70px;
+}
+
+.nav__black{
+    background-color: rgb(173, 58, 23) !important;
+    color: white;
+    box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.5), 0 0px 20px 0 rgba(0, 0, 0, 0.4);
+}
+
+.navbar-brand{
+    color: whitesmoke !important;
+    min-width: 20%;
+}
+
+.navBar__text{
+    padding: 5px;
+    border-radius: 10px;
+    margin-right: 15px;
+    font-weight: 700;
+}
+
+.navBar__text:hover{
+    color: black;
+    background-color: whitesmoke;
+    transform: scale(1.02);
+    cursor: pointer;    
+    padding: 10px;
+
+}
+
+.nav__image{
+    max-height: 70px;
+    position: fixed;
+    right: 20px;
+}
+
+@media screen and (max-width:991px) {
+    .nav__image{
+        display: none;
+    }
+}
+
+.drop{
+    font-size: 0.9rem;
+    color: white !important;
+    font-weight: 600 !important;
+}
+
+.nav__dropmenu{
+    background-color: rgba(0, 0, 0, 0.9) !important; 
+    margin-top: 4px !important;
+    /* width: 100px !important; */
+}
+
+.drop__border{
+    border-bottom: 1px solid rgb(97, 97, 97) !important;
+}
+
+.drop:hover{
+    background-color: whitesmoke !important;
+    color: black !important;
+}
+
+.navLine{
+    display: flex;
+    flex-direction: column;
+}
+
+.prevLine{
+    display: flex;
+}
+
+.newLine{
+    display: flex;
+}

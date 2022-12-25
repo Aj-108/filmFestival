@@ -1,0 +1,30 @@
+.jury{
+    /* background-image: url(../Assets/committe/jury/juryBack.jpg); */
+    background-size: cover;
+    background-color: rgb(248, 222, 222);
+    background-repeat: none;
+    position: relative;
+    z-index: 10;
+    width: 100%;
+}
+
+.jury__pattern{
+    position: absolute;
+    overflow: hidden;
+    margin-top: 225px;
+}
+
+.jury__pattern2{
+    position: absolute;
+    margin-left: 400px;
+    overflow:auto;
+    left: 60%;
+    margin-top: 225px;
+    /* margin-left: 1557px; */
+}
+
+.imageClass{
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}

@@ -1,0 +1,17 @@
+.carousel__bannerpic{
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.carousel__heading{
+    font-size: 3rem;
+    margin-bottom: 27%;
+    /* background-color: black;
+    width: 500px; */
+    margin-left: -70%;
+    display: flex;
+    flex-direction: column;
+}

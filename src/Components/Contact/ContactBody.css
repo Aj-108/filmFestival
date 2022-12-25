@@ -1,0 +1,102 @@
+.contact__heading{
+    z-index: 999;
+    position: relative;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.contact__body{
+    background-color: rgb(14,38,95);
+    padding-bottom: 40px;
+}
+
+.contact__col1{
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact__image{
+    max-height: 500px;
+    max-width: 500px;
+}
+
+.contact__tagLine{
+    padding-top: 30px;
+    font-size: 1.6rem;
+    font-weight: 400;
+}
+
+.contact__infotext{
+    display: flex;
+    padding-top: 10px;
+}
+
+.contact__number{
+    padding-left: 1em;
+}
+
+.contact__social{
+    display: flex;
+    padding-top: 20px;
+}
+
+.icon__social{
+    padding-right: 1em;
+}
+
+.contact__form{
+    display: flex;
+    flex-direction: column;
+}
+
+.form__field{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.form__text{
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    font-size: 1.05rem;
+    padding-bottom: 10px;
+}
+
+.form__input{
+    max-width : 450px;
+    padding: 10px;
+    padding-left: 15px;
+    color: black;
+    background-color: rgb(233, 233, 233);
+    border: none;
+    cursor:pointer;
+    outline: none;
+}
+
+.form__textarea{
+    height: 150px;
+}
+
+.contact__submit{
+    max-width: 180px;
+    border: none;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 0.9em;
+    font-weight: 400;
+    outline: none;
+    overflow: auto;
+}
+
+textarea:focus{
+    background-color: black;
+}
+
+.contact__numbers{
+    display: flex;
+    flex-direction: column;
+}
